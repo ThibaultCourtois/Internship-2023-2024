@@ -1,0 +1,9 @@
+
+MODULE user (SYSMODULE)
+    CONST extjoint extj := [9E9, 9E9, 9E9, 9E9, 9E9, 9E9];
+    CONST confdata conf := [0, 0, 0, 0];
+    TASK PERS tooldata PieceBase := [TRUE, [[-74, 0, 250], [0.70711, 0, -0.70711, 0]], [5, [0, 0, 1],[1, 0, 0, 0], 0, 0, 0]];
+    TASK PERS tooldata PrintedCylinderTool := [TRUE, [[-221, 0, 188], [0.70711, 0, -0.70711, 0]], [5, [0, 0, 1],[1, 0, 0, 0], 0, 0, 0]];
+    TASK PERS wobjdata Torch := [FALSE, TRUE, "", [[0, 0, 0], [1, 0, 0, 0]], [[1937, 0,  1129.63], [1, 0, 0, 0]]];
+    CONST speeddata printSpeed := [14.2, 14.2, 14.2, 14.2];
+ENDMODULE
