@@ -1,6 +1,6 @@
 # WAAM Process Description
 
-This notice is meant to help you understand and use the current WAAM IndexLab by describing the calibration process, the RobotStudio simulation (and thus the real process), and the parameters used to print the best piece.
+This notice is meant to help you understand and use the current WAAM IndexLab by describing the calibration process, the RobotStudio simulation (and thus the real process), and the parameters I used to print my best piece.
 
 I have created a GitHub repository [--HERE--](https://github.com/ThibaultCourtois/Internship-2023-2024/tree/main) where you can find my WAAM RobotStudio simulation as well as my Python algorithm for post-processing Prusa Slicer files for a standard Prusa plastic 3D printer.
 
